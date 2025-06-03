@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+charset_normalizer==3.3.2  
+
